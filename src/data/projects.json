@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Pathfinder Visualiser",
+    "imageSrc": "projects/Pathfinder.png",
+    "description": "Pathfinder Visualizer is an interactive web application built using the React framework that allows users to visually explore and understand various pathfinding and maze generation algorithms in real-time. The tool provides an intuitive and engaging way to observe how different algorithms traverse grids, find optimal paths, and navigate obstacles.",
+    "skills": ["Javascript, HTML, CSS"],
+    "demo": "https://pathfinder-visualiser-tau.vercel.app/",
+    "source": "https://github.com/gargshishirr/Pathfinder_Visualiser"
+  },
+  {
+    "title": "Boggle",
+    "imageSrc": "projects/Boggle.png",
+    "description": "This C++ program generates a random Boggle board, builds a Trie-based dictionary, and finds all valid words present. It efficiently implements DFS search for word detection.",
+    "skills": ["C++"],
+    "demo": "",
+    "source": "https://github.com/gargshishirr/Boggle"
+  },
+  {
+    "title": "Pinterest Clone",
+    "imageSrc": "projects/Pinterest.png",
+    "description": "A simple pinterest Clone with end to end functionalities",
+    "skills": ["Express", "NodeJs","MongoDB","EJS"],
+    "demo": "",
+    "source": "https://github.com/TeekshaHarish/teammate-finder"
+  },
+  {
+    "title": "GameZoneX",
+    "imageSrc": "projects/GameZoneX.jpg",
+    "description": "Mini Games Website comprising of games like Snake Game, Tic Tac Toe, Dino Game and a Card game. Features like play with computer or friend, and to choose diffulty are also added.",
+    "skills": ["HTML", "CSS", "JS", "Bootstrap"],
+    "demo": "https://gamezonex.onrender.com/",
+    "source": "https://github.com/TeekshaHarish/GameZone"
+  }
+]

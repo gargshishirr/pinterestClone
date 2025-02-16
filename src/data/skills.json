@@ -1,0 +1,58 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++.svg"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/Docker.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/Csharp.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/AWS.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/Azure.jpeg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.jpeg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "My SQL",
+    "imageSrc": "skills/mysql.png"
+  }
+]

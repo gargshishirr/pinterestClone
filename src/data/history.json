@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "Microsoft",
+    "startDate": "May, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Designed and implemented a public API endpoint for batch shortcut creation in OneLake using C#, significantlyoptimizing partition node performance by reducing latency and load."],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Devops Intern",
+    "organisation": "Lumiq.AI",
+    "startDate": "June, 2023",
+    "endDate": "July 2023",
+    "experiences": ["Successfully completed the Bootcamp training session which included basics of Cloud Computing, providing SSLCertificates, basics of Unix and Linux operating systems and their shell commands, creating images and containersusing Docker, creating a web application using HTML and CSS, Amazon Web Services (AWS), EC2, API Gateways,AWS Lambda and used Secure Shell (SSH) to access VMs and containers"],
+    "imageSrc": "history/LumiqAI.png"
+  },
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "DistrictD",
+    "startDate": "May, 2023",
+    "endDate": "June, 2023",
+    "experiences": ["Learned about agile and scrum methodologies, APIs in C++/Node.js to sync data from Master to Child DB and successloopback, maintaining proper logs."],
+    "imageSrc": "history/DistrictDlogo-b.png"
+  }
+]

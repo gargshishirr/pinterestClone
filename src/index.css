@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box; /*include border when calculating width */
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit",Arial, Helvetica, sans-serif;
+}
+.favicon {
+  width: 32px;  /* Adjust size as needed */
+  height: 32px;
+  border-radius: 50%;  /* Makes it circular */
+}
+html{
+  scroll-behavior: smooth;
+}
